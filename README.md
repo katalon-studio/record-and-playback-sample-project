@@ -1,6 +1,6 @@
 # Record and Playback Sample Project
 
-This is the project that we used when creating the [Katalon Studio for Beginners: Create Automated Tests with Record & Playback](https://academy.katalon.com/courses/record-playback-testing/?utm_source=github&utm_medium=prj) course.
+This is the project that we used when creating our course [Katalon Studio for Beginners: Create Automated Tests with Record & Playback](https://academy.katalon.com/courses/record-playback-testing/?utm_source=github&utm_medium=prj) on Katalon Academy.
 
 Record and Playback is one of the many quickest and easiest ways to create automated tests.
 
